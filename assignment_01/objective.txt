@@ -1,1 +1,4 @@
-
+The objective of this assignment is to learn how to write C program using Input/output Function and conditional statements using:
+    a) 'if else' condition.
+    b) 'if else if' condition and how to  use logical operators.
+    c) 'switch case' statement.
