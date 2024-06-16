@@ -1,4 +1,21 @@
-The objective of this assignment is to learn how to write C program using Input/output Function and conditional statements using:
-    a) 'if else' condition.
-    b) 'if else if' condition and how to  use logical operators.
-    c) 'switch case' statement.
+1.    Write a C program to enter two numbers and find their sum.
+
+2.    Write a C program to enter two numbers and perform all arithmetic operations (+,-,*,/ and %).
+
+3.    Write a C program to enter length and breadth of a rectangle and radius of a circle. Find perimeter and area of rectangle and circumference and          area of circle.
+
+4.    Write a C program to swap two numbers (With and without third variable).
+
+5.    Write a C program to find maximum between three numbers using nested if-else.
+
+6.    Write a C program to check whether a number is even or odd using if-else statement.
+
+7.    Write a C program to check whether year is leap year or not.
+
+8.    Write a C program to find all roots of a quadratic equation a(x^2) + bx +c = 0 for all possible combination of a, b and c.
+      A quadratic equation will have two roots which are obtained using the following expressions:
+
+        X = (-b + root((b^2) - 4ac))/2a        and    X = (-b - root((b^2) - 4ac))/2a
+
+      Note: 
+            When, 
