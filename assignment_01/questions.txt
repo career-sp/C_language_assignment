@@ -15,7 +15,12 @@
 8.    Write a C program to find all roots of a quadratic equation a(x^2) + bx +c = 0 for all possible combination of a, b and c.
       A quadratic equation will have two roots which are obtained using the following expressions:
 
-        X = (-b + root((b^2) - 4ac))/2a        and    X = (-b - root((b^2) - 4ac))/2a
+        X = (-b + root((b^2) - 4ac))/2a      and      X = (-b - root((b^2) - 4ac))/2a
 
       Note: 
-            When, 
+            When, ((b^2) - 4ac) > 0 roots are real and unequal.
+
+                  ((b^2) - 4ac) = 0 roots are real and equal i.e.            X = -b/2a
+
+                  ((b^2) - 4ac) < 0 roots are imaginary i.e.       X = (-b + root((b^2) - 4ac))/2a      and      X = (-b - root((b^2) - 4ac))/2a
+
